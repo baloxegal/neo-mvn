@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<urlProperties>
+	<endPoint>https://api.nasa.gov/neo/rest/v1/feed</endPoint>
+	<apiKey>Ju3eZzO17pcRDwoaDYLhp471lH5XkxmOMuxMAAGz</apiKey>
+</urlProperties>

@@ -19,7 +19,7 @@ import org.json.JSONObject;
 class NasaProviderTest {
 
 	//private final static String NEO_TEST_URL = "https://api.nasa.gov/neo/rest/v1/feed?start_date=2020-04-01&end_date=2020-04-01&api_key=DEMO_KEY";
-	private final static String testURLNasaXML = "src/main/resources/test.xml";	
+	private final static String testURLNasaXML = "src/test/resources/test.xml";	
 	@Test
 	void checkConnection() {
 		

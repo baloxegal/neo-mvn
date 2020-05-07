@@ -15,7 +15,7 @@ public class NasaDataProvider {
 	//private final static String NEO_ENDPOINT = "https://api.nasa.gov/neo/rest/v1/feed";
 	//private final static String ACCESS_KEY = "Ju3eZzO17pcRDwoaDYLhp471lH5XkxmOMuxMAAGz";
 	
-	private static final String URLNasaXML = "src/main/resources/prod.xml";
+	private static final String URLNasaXML = "src/main/resources/nasa.xml";
 		
 	public void getNeoAsteroids(LocalDate start, LocalDate end) throws Exception {
 			//With SAX parser

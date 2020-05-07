@@ -3,7 +3,7 @@ package tests;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-import space.SAXParserAtributes;
+import config.SAXParserAtributes;
 
 //import java.net.HttpURLConnection;
 import java.net.URL;

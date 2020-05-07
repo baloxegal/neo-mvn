@@ -1,4 +1,4 @@
-package space;
+package config;
 
 import javax.xml.parsers.SAXParserFactory;
 import javax.xml.parsers.SAXParser;

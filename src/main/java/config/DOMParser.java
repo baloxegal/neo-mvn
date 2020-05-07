@@ -1,4 +1,4 @@
-package space;
+package config;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import org.w3c.dom.Document;
